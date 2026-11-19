@@ -4,6 +4,8 @@
 
 <h1 align="center">ASCII Sharks</h1>
 
+<p align="center"><b>ASCII Sharks continues as <a href="https://github.com/zegrt/ascii-animals">ASCII Animals</a></b> — sharks, spiders and more.</p>
+
 <p align="center">
   <b>Sharks hunting schools of fish, right on your Mac's desktop, all drawn in letters and symbols.</b><br>
   A living wallpaper that swims quietly behind your icons.
